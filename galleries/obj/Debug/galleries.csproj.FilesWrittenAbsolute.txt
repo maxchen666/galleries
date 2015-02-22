@@ -1,0 +1,9 @@
+/Users/admin/Desktop/galleries/galleries/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/admin/Desktop/galleries/galleries/bin/Debug/galleries.dll.mdb
+/Users/admin/Desktop/galleries/galleries/bin/Debug/galleries.dll
+/Users/admin/Desktop/galleries/galleries/obj/Debug/galleries.dll
+/Users/admin/Desktop/galleries/galleries/obj/Debug/galleries.dll.mdb
+/Users/admin/Desktop/galleries/galleries/bin/Debug/Xamarin.Forms.Core.dll
+/Users/admin/Desktop/galleries/galleries/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/admin/Desktop/galleries/galleries/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/admin/Desktop/galleries/galleries/bin/Debug/Newtonsoft.Json.dll
